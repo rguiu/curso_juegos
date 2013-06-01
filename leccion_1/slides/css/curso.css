@@ -1,0 +1,186 @@
+body {
+   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+}
+
+#title h1 {
+	margin-top: 40px;
+	height: 260px;
+	background-image:url('../images/large_walkers.png');
+	background-repeat:repeat-x;
+	background-position: 0px 0px;
+  	padding-top: 250px;
+}
+#title h1 .short {
+	text-align: center;
+	display: inline-block;
+/*	color: #ac0000;*/
+   	text-transform: uppercase;
+  	font-size: 1.07em;
+ 	padding: 0 120px 0 120px; 
+ 	line-height: 0.95em;
+  	font-weight: bold;
+  	background-color: #FFFB99;
+}
+
+#title h2 {
+	text-align: center;
+	margin-top: -160px;
+	text-transform: uppercase;
+  	font-size: .90em;
+  	opacity: 0.4;
+  	background-color: #ccc;
+  	text-transform: lowercase;
+}
+
+#title p {
+	text-align: center;
+	margin-top: -130px;
+	text-transform: lowercase;
+}
+
+.step h3 {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+
+.step ul {
+	margin-left: 50px;
+}
+
+.step ul li{
+	padding: 10px;
+}
+
+.bigger {
+	font-size: 2em;
+}
+
+.monster {
+	text-align: center;
+	text-transform: uppercase;
+	background-image:url('../images/714883_10ee_sqr.jpeg');
+	background-repeat:repeat-x;
+	background-position: 40px 220px;
+}
+
+.audiencia {
+	background-image:url('../images/20091029_universal-monsters_33.jpg');
+	background-repeat:no-repeat;
+	background-position: 50px 120px;
+}
+
+.audiencia p {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p.negmargin {
+	margin-top: -24px;
+	opacity: 0.60;
+}
+
+.smaller {
+	font-size: 0.8em;
+}
+
+.smallish {
+	font-size: 0.4em;
+	opacity: 0.40;
+}
+
+#teclist {
+	margin-top: 48px;
+	opacity: 0.60;
+	padding: 0;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	width: 600px;
+	background-color: red;
+}
+
+#teclist li {
+	float: left;		
+}
+#teclist li.bigger {
+	padding: 10px 50px -20px 50px;
+
+}
+
+#teclist li.displaced {
+	margin: -15px 20px -19px 30px;
+}
+
+#teclist li.smaller {
+	opacity: 0.4;
+}
+
+.reddish {
+	color:  #ec0000;
+}
+
+.cloud {
+	padding: 60px;
+}
+
+ol.objetivos {
+	margin-top: 50px;
+  color: #ccc;
+  list-style-type: none;
+}
+ 
+ol.objetivos li {
+  position: relative;
+  margin-bottom: 20px;
+}
+ 
+ol.objetivos li p {
+  padding-left: 60px;
+  color: #555;
+  font-size: 0.8em;
+}
+ 
+ol.objetivos li span {
+  margin-top: -10px;
+  position: absolute;
+  font-size: 1.5em;
+}
+
+.listadisc {
+	background-image:url('../images/3896257022_f76ac90b7e_o.jpg');
+	background-repeat: no-repeat;
+	background-position: 140px 160px;
+	background-size: 450px 336px;
+	text-align: center;
+}
+
+.listadisc dt {
+	font-size: 0.6em;
+	float: left;
+	margin-left: 20px;
+	width: 50px;
+}
+
+.listadisc dd {
+	font-size: 0.7em;
+}
+
+.listadisc dt:after {
+	content: ": ";
+}
+
+.bigscreen {
+	background-image:url('../images/lostod_theend.jpg');
+	background-repeat: no-repeat;
+	background-position: 70px 100px;
+	text-align: center;
+}
+
+.github {
+	background-image:url('../images/6a00d8341c767353ef016762f7c808970b-800wi.png');
+	background-repeat: no-repeat;
+	background-position: 440px 20px;
+	/*background-size: 450px 336px;*/
+	text-align: center;
+}
