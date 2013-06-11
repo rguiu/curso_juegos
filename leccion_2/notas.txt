@@ -1,0 +1,39 @@
+Guion para el segundo dia
+
+- Si no tenemos cuenta en GitHub creamos una cuenta.
+
+- Creamos un proyecto.  (demop en mi caso)
+
+- Hacemos un "git clone" de nuestro proyecto.
+
+- Creamos un README
+
+- Escribimos git status para ver las diferencias
+
+- git add README  o  git add .
+
+- git commit -m "...."
+
+- git push origin master
+
+- editamos README
+
+- git status (ver cambios...)
+
+- git commit 
+
+- git checkout -b gh-pages
+
+- git push origin gh-pages
+
+- creamos una pagina index.html (http://www.sitepoint.com/a-basic-html5-template/)
+
+- git add .
+
+- git push
+
+Y ahora esperamos un poco y .... http://rguiu.github.io/demop/  tiene la pagina (Reemplaza: rguiu por tu usuario y demop por el nombre del proyecto)
+
+
+Mostramos el proyecto de GitHub:
+http://rguiu.github.io/demoanimations/
