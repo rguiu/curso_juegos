@@ -1,0 +1,11 @@
+Introduccion historica al Javascript.
+
+Introduccion al Javascript:
+
+Seguimos el Libro Eloquent Javascript.
+
+http://eloquentjavascript.net/
+
+Y hacemos algunos ejercicios del capitulo segundo. Terminamos el capitulo segundo.
+
+

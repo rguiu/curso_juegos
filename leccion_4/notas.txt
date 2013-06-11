@@ -1,0 +1,2 @@
+1. Ejercicio para animar un personaje, aplicamos lo que aprendimos sobre bucles.
+
