@@ -1,2 +1,11 @@
-1. Ejercicio para animar un personaje, aplicamos lo que aprendimos sobre bucles.
+Unos ejercicios (basados totalmente en la clase de HTML5 de coursera):
+
+1. Cargar una imagen
+
+2. poner la imagen en pantalla
+
+3. Ejercicio para animar un personaje, aplicamos lo que aprendimos sobre bucles.
+
+
+Aparte de estos ejercicios, y si hay tiempo veremos algo mas del libro Eloquent Javascript. En estos ejercicios hemos asumido conocimiento de funciones, de Arrays y de ambito de vaiables aunque no los hemos visto. 
 
