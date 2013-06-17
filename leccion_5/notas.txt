@@ -1,0 +1,11 @@
+Ejercicios:
+
+1. Cargar una imagen de un sprite/atlas generado con texture packer.
+
+2. Ejercicio 3 de la leccion 4, pero esta vez cargando las imagenes de un sprite/atas.
+
+3. Usando JSON. eval y ParseJSON.
+
+4. Un ejemplo de AJAX de twitter
+
+

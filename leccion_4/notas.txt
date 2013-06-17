@@ -9,3 +9,4 @@ Unos ejercicios (basados totalmente en la clase de HTML5 de coursera):
 
 Aparte de estos ejercicios, y si hay tiempo veremos algo mas del libro Eloquent Javascript. En estos ejercicios hemos asumido conocimiento de funciones, de Arrays y de ambito de vaiables aunque no los hemos visto. 
 
+Nota: Antes del tercer ejercicio debemos explicar Arrays, quizas temas 2 y 3 del libro completos.

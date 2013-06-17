@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Curso de HTML5</title>
+  <meta name="description" content="Curso de HTML5">
+  <meta name="author" content="Raul Guiu">
+	<script src="./js/ejercicio_1.js"></script>
+	<link rel="stylesheet" href="./css/ejercicios.css?v=1.0">
+</head>
+	<body>
+		<div id="ejercicio">
+			<h1>Ejercicio 1</h1>
+			<h2>Cargar una imagen de un sprite</h2>
+			<p>Solo tendremos que escribir algunas lineas en la función <code>animate</code>. Actualizamos el contador y pintamos la imagen. Para pintar la imagen tenemos que tener en cuenta donde esta la nueva imagen dentro del sprite. Asi los parametros del <code>drawImage</code> serán en orden:</p>
+
+
+				context.drawImage(
+		sprite, current_image_json.x, current_image_json.y, 
+		current_image_json.w, current_image_json.h, 100, 10, current_image_json.w, current_image_json.h);
+			<ol>
+				<li>sprite</li>
+				<li>"x" dentro del sprite (<code>...frame.x</code>)</li>
+				<li>"y" dentro del sprite (<code>...frame.y</code>)</li>
+				<li>anchura de la imagen (<code>...frame.w</code>)</li>
+				<li>altura de la imagen (<code>...frame.h</code>)</li>
+				<li>la coordenada x en el canvas, en nuestro caso, 100 por ejemplo</li>
+				<li>la coordenada y en el canvas, en nuestro caso, 10 por ejemplo</li>
+				<li>la anchura con la que veremos la imagen, si no es lo mismo que la anterior anchura deformara la imagen</li>
+				<li>lo mismo para la altura</li>
+			</ol>
+			<p>Abrimos el fichero en <code>js/ejercicio_1.js</code>, seguimos las instrucciones y refrescamos esta página cuando hayamos terminado.</p>
+			<p>Necesitaremos abrir la consola del navegador para ver cuando hemos conseguido nuestro objetivo.</p>
+		</div>
+		<canvas id="canvas"></canvas>
+	</body>
+</html>
