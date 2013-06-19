@@ -1,0 +1,33 @@
+body {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+
+h1{
+	margin: 0 0 2px 0;
+	text-transform: uppercase;
+}
+
+h2 {
+	margin: 0 0 6px 0;
+	line-height: 1.5em;
+	text-transform: uppercase;
+}
+
+code {
+	color: #006633;
+	font-weight: bold;
+}
+
+p {
+	margin: 2px 0 0 0;
+}
+
+ol {
+	margin-top: 2px 0 0 0;
+}
+
+#ejercicio {
+	border: 1px black solid;
+	padding: 15px 5px 15px 20px;
+	background-color: #ccf
+}

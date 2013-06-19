@@ -30,7 +30,7 @@ onImageLoad = function(){
     // al context 2D no al canvas
 
 	// AQUI EMPIEZA TU CODIGO
-
+	context.drawImage(image, 100, 10);
 
     // AQUI TERMINA TU CODIGO
 };

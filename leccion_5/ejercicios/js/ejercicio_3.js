@@ -2,8 +2,11 @@
 main = function() {
 	// Tu codigo
 	// recuerda el ejercicio anterior para el ajax, pero añade la responseType como "arraybuffer"
-
-
+	// 3. un booleano para describir la llamada como sincrona o asincrona
+	var soundRequest = new XMLHttpRequest();
+	soundRequest.open("GET","http://23.23.14.11/DST-AngryRobotIII.mp3", true);
+	
+	soundRequest.responseType = "arraybuffer";
 	// final de tu codigo
 	soundRequest.onload = function () {
 		try {
